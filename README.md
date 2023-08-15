@@ -6,4 +6,4 @@ Some other areas I have studied and enjoyed recently are numerical methods, real
 
 My favorite function right now is the [Rosenbrock Function](https://en.wikipedia.org/wiki/Rosenbrock_function) (see profile picture). 
 
-The languages I use (on and off) the most right now are Python (2 years - currently) and MATLAB (1 year - currently), and I am familiar with C++ (1 year - the last year 2022) and R (3 years - the last year 2022). I would consider myself to have intermediate-level knowledge of most of these languages. 
+The languages I use (on and off) the most right now are Python (2 years - currently) and MATLAB (1 year - currently), and I am familiar with C++ (1.5 years - the last year 2023) and R (3 years - the last year 2022). I would consider myself to have intermediate-level knowledge of most of these languages. 
