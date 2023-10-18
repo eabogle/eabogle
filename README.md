@@ -2,7 +2,7 @@ Hello, and welcome to my GitHub! My name is Emily Bogle and I am a Math Ph.D. st
 
 Currently, my primary area of focus is numerical optimization, and I will have more specific things to say about that soon. Some topics I have enjoyed being exposed to so far is [Tikhonov Regularization](https://en.wikipedia.org/wiki/Ridge_regression) for image restoration/deblurring, estimating space-distributed source parameters (forcing term) in a nonlinear dynamical system, and the [method of Lagrange Multipliers](https://en.wikipedia.org/wiki/Lagrange_multiplier). 
 
-Some other areas I have studied and enjoyed recently are numerical methods, real analysis, and multilevel methods. 
+Some other areas I have studied and enjoyed recently are numerical methods, real analysis, and advanced partial differential equations. 
 
 My favorite function right now is the [Rosenbrock Function](https://en.wikipedia.org/wiki/Rosenbrock_function) (see profile picture). 
 
