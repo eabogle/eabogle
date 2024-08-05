@@ -8,4 +8,4 @@ Other areas of interest, formal training, and experience I have include [numeric
 
 Some of my favorite benchmark test functions to optimize include [Rosenbrock](https://www.sfu.ca/~ssurjano/rosen.html), [Ackley](https://www.sfu.ca/~ssurjano/ackley.html), [Holder Table](https://www.sfu.ca/~ssurjano/holder.html), and [Griewank](https://www.sfu.ca/~ssurjano/griewank.html).
 
-I mainly work in Python, but have some formal training in C++ and experience in MATLAB. I am currently learning Julia with optimization uses in mind. 
+I mainly work in Python, but I have some formal training in C++ and experience in MATLAB. I am currently learning Julia with optimization uses in mind. 
