@@ -7,4 +7,3 @@ My principal area of reserach is analyzing partial differential equations on met
 Other areas of interest, formal training, and experience I have include [numerical methods](https://en.wikipedia.org/wiki/Numerical_methods_for_partial_differential_equations), [optimization](https://en.wikipedia.org/wiki/Mathematical_optimization), [numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis), and [machine learning](https://en.wikipedia.org/wiki/Machine_learning).
 
 I mainly work in Python, but I have some formal training in C++ and experience in MATLAB. I am currently learning Julia with optimization uses in mind. 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eabogle)](https://github.com/eabogle/github-readme-stats)
