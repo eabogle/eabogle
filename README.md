@@ -8,4 +8,4 @@ Other areas of interest, formal training, and experience I have include [numeric
 
 I mainly work in Python, but I have some formal training in C++ and experience in MATLAB. I am currently learning Julia with optimization uses in mind. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eabogle&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eabogle&show_icons=true&theme=merko)
