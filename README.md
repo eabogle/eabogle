@@ -1,6 +1,6 @@
 # Emily Bogle's GitHub
 
-Hello, and welcome to my GitHub! My name is Emily Bogle and I am a third year Math Ph.D. student at Portland State University focusing mainly on applied math. 
+Hello, and welcome to my GitHub! My name is Emily Bogle and I am a fourth year Math Ph.D. student at Portland State University focusing mainly on applied math. 
 
 My principal area of reserach is analyzing partial differential equations on metric/quantum graphs. Under the advising of [Dr. Jeffrey Ovall](https://sites.google.com/pdx.edu/jeffovall/home) and [Dr. Hannah Kravitz](https://sites.google.com/pdx.edu/hkravitz) we are primarily researching eigenvector localization on metric/quantum graphs. 
 
