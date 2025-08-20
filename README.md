@@ -1,9 +1,7 @@
 # Emily Bogle's GitHub
 
-Hello, and welcome to my GitHub! My name is Emily Bogle and I am a fourth year Math Ph.D. student at Portland State University focusing mainly on applied math. 
+Hello, and welcome to my GitHub! I’m Emily Bogle, a fourth-year Mathematics Ph.D. student at Portland State University with a focus on applied mathematics.
 
-My principal area of reserach is analyzing partial differential equations on metric/quantum graphs. Under the advising of [Dr. Jeffrey Ovall](https://sites.google.com/pdx.edu/jeffovall/home) and [Dr. Hannah Kravitz](https://sites.google.com/pdx.edu/hkravitz) we are primarily researching eigenvector localization on metric/quantum graphs. 
+My primary research involves analyzing partial differential equations on metric/quantum graphs, with a focus on eigenvector localization phenomena. I’m fortunate to be advised by [Dr. Jeffrey Ovall](https://sites.google.com/pdx.edu/jeffovall/home)  and [Dr. Hannah Kravitz](https://sites.google.com/pdx.edu/hkravitz) in this work.
 
-Other areas of interest, formal training, and experience I have include [numerical methods](https://en.wikipedia.org/wiki/Numerical_methods_for_partial_differential_equations), [optimization](https://en.wikipedia.org/wiki/Mathematical_optimization), [numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis), and [machine learning](https://en.wikipedia.org/wiki/Machine_learning).
-
-I mainly work in Python, but I have some formal training in C++ and experience in MATLAB. I am currently learning Julia with optimization uses in mind. 
+Beyond my research, I have formal training and experience in numerical methods, optimization, numerical analysis, and machine learning. I primarily work in Python, and have experience with MATLAB and some formal training in C++. I'm currently expanding my skill set by learning Julia.
